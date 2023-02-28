@@ -24,6 +24,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/320px-Google_Colaboratory_SVG_Logo.svg.png" title="Colaboratory" alt="Google Colaboratory" width="60" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaililya&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaililya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaililya&theme=vue-dark&locale=ru)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaililya&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
