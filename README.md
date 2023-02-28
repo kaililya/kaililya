@@ -11,7 +11,7 @@
 
 <div align="center">
 
-###  Стек из "пошлой" жизни:
+###  Стек из "прошлой" жизни:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
