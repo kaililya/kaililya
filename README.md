@@ -1,10 +1,10 @@
 
-  ```scss /* или css */
-@import "bower_components/tree-normalize/generic.normalize";
-h1 {
-    Имя: Илья;
-    Профессия: Frontend разработчик;
-}
+
+```javascript
+const frontEndDeveloper: React = "Кайль Илья";
+ 
+// @ts-ignore
+
 ```
   ## Практикую и развиваю:
 
@@ -22,8 +22,8 @@ h1 {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaililya&theme=codeSTACKr&show_icons=true) 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaililya&hide_progress=true&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-`Ранее я много писал на Python, поэтому среди всех моих проектов 
-код на Python занял львиную долю:`
+Ранее я много писал на Python, поэтому среди всех моих проектов  
+код на Python занял львиную долю:
 </div>
 
 <div align="center">
