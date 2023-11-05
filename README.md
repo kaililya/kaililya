@@ -27,7 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]()
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7DB3)]()	
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7DB3)]()
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=gmail&logoColor=#EA4335)]()
 
 </div>
 
