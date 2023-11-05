@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
-![Redux Toolkit](https://img.shields.io/badge/-redux-000?logo=Redux&logoColor=764ABC&style=flat)
+![Redux Toolkit](https://img.shields.io/badge/-Redux-000?logo=Redux&logoColor=764ABC&style=flat)
 
 
 <div align="center">
