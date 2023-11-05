@@ -1,4 +1,4 @@
-
+Это — [без title](http://example.com/link).
 
 ```javascript
 let frontEndDeveloper: React = "Кайль Илья";
