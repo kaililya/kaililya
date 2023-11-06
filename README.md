@@ -30,6 +30,9 @@ const description: вода = "Ранее работал аналитиком н
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7DB3)]()
 
 ## Мои лучшие проекты (ТОП-4):
+###### Скриншот для моб. устройств
+<img width="600" alt="image" src="https://github.com/kaililya/kaililya/assets/95302273/c83a5de2-f37b-4eb2-ab35-31c8c488a420">
+
 | Название | Адаптивная верстка | REST API | ![Type Script](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javaScript&logoColor=yellow&style=flat) | ![React](https://img.shields.io/badge/-React-000?&logo=React) | ![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-000?logo=Redux&logoColor=764ABC&style=flat) | ![React Router](https://img.shields.io/badge/-ReactRouter-000?logo=reactrouter&logoColor=CA4245&style=flat) | ![Cypress](https://img.shields.io/badge/-Cypress-000?logo=cypress&logoColor=fff&style=flat) | ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest&logoColor=red&style=flat) | ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT) | 
 |---|---|---|---|---|---|-----|-----|----|---|---|
 | [1 Burger Constructor](https://github.com/kaililya/react-stellar-burger)|   | ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b)| ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b) |   | ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b)  |  ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b) |   ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b)  |   ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b)  |  ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b)  |  ![yes](https://img.shields.io/badge/-Yes-000?color=40c32b) | 
