@@ -1,4 +1,4 @@
-Это — [Мой сайт-визитка](https://kaililya.github.io/portfolio/web-porfolio/).
+[Мой сайт визитка](https://kaililya.github.io/web-porfolio/).
 
 ```javascript
 const frontEndDeveloper: React = "Кайль Илья";
