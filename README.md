@@ -1,7 +1,7 @@
 Это — [без title](http://example.com/link).
 
 ```javascript
-let frontEndDeveloper: React = "Кайль Илья";
+const frontEndDeveloper: React = "Кайль Илья";
 let age: number = 23;
 const description: вода = "Ранее работал аналитиком но понял,что задачи которые решает данный специалист
 не драйвовые, поэтому я решил перепрыгнуть со стула аналитика на стул разработчика.
