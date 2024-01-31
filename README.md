@@ -25,7 +25,7 @@ const description: вода = "Ранее работал аналитиком н
 
 	
 ### Мои контакты:	
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7DB3)](https://t.me/ilya_kail)	
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7DB3)](https://t.me/kail_ilya_frontend)	
 
 ## Мои лучшие проекты (ТОП-4):
 ###### Скриншот для моб. устройств
