@@ -28,7 +28,6 @@ const description: вода = "Ранее работал аналитиком н
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7DB3)](https://t.me/kail_ilya_frontend)	
 
 ## Мои лучшие проекты (ТОП-5):
-###### Скриншот для моб. устройств
 
 | Название | Адаптивная верстка | REST API, WebSocket | Type Script | JavaScript | React | Redux Toolkit | React Router | Cypress] | Jest | GIT | 
 |---|---|---|---|---|---|-----|-----|----|---|---|
